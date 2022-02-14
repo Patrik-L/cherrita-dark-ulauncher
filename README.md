@@ -1,10 +1,6 @@
-# Orchis Dark Ulauncher
+# Cherrita dark theme for Ulauncher
 
-A theme for Ulauncher. Orchis Dark theme.
-
-## Screenshot
-![](https://raw.githubusercontent.com/kleber-swf/orchis-dark-ulauncher/assets/screenshot.png)
-
+A theme for Ulauncher based on the cherrita theme, forked from orchis dark theme for ulaucher by Subin Kim: https://github.com/kleber-swf/orchis-dark-ulauncher
 ## Installation
 
 ```sh
